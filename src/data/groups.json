@@ -1,0 +1,156 @@
+{
+  "groups": {
+    "A": 
+      {
+      "Qatar": {
+        "name": "Qatar",
+        "flag": "https://www.estudopratico.com.br/wp-content/uploads/2017/03/significado-da-bandeira-do-catar.jpg"
+      },
+      "Equador": {
+        "name": "Equador",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png"
+      },
+      "Senegal": {
+        "name": "Senegal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/255px-Flag_of_Senegal.svg.png"
+      },
+      "Holanda": {
+        "name": "Holanda",
+        "flag": "https://www.holandaevoce.nl/binaries/large/content/gallery/nl-netherlandsandyou/content-afbeeldingen/vlag-nederland.png"
+      }
+    },
+    "B":
+    {
+      "Inglaterra": {
+        "name": "Inglaterra",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png"
+      },
+      "Ira": {
+        "name": "Irã",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/2560px-Flag_of_Iran.svg.png"
+      },
+      "USA": {
+        "name": "USA",
+        "flag": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"
+      },
+      "Gales": {
+        "name": "País de Gales",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png"
+      }
+    },
+    "C": 
+    {
+      "Argentina":{
+        "name": "Argentina",
+        "flag": "https://static.todamateria.com.br/upload/ba/nd/bandeira_argentina_bb.jpg"
+      },
+      "Arabia":{
+        "name": "Arábia Saudita",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/255px-Flag_of_Saudi_Arabia.svg.png"
+      },
+      "Mexico":{
+        "name": "México",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
+      },
+      "Polonia":{
+        "name": "Polonia",
+        "flag": "http://geo5.net/imagens/bandeira-da-polonia-2000px.png"
+      }
+    },
+    "D": 
+    {
+      "Dinamarca":{
+        "name": "Dinamarca",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/225px-Flag_of_Denmark.svg.png"
+      },
+      "Franca":{
+        "name": "França",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/255px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png"
+      },
+      "Tunisia":{
+        "name": "Tunísia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/255px-Flag_of_Tunisia.svg.png"
+      },
+      "Australia":{
+        "name": "Austrália",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/255px-Flag_of_Australia.svg.png"
+      }
+    },
+    "E":
+    {
+      "Alemanha":{
+        "name": "Alemanha",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png"
+      },
+      "Espanha":{
+        "name": "Espanha",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/255px-Flag_of_Spain.svg.png"
+      },
+      "Japao":{
+        "name": "Japão",
+        "flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/03/bandeira-japao-1200x675.jpg"
+      },
+      "CostaRica":{
+        "name": "Costa Rica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/2560px-Flag_of_Costa_Rica.svg.png"
+      }
+    },
+    "F": 
+    {
+      "Marrocos":{
+        "name": "Marrocos",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/255px-Flag_of_Morocco.svg.png"
+      },
+      "Croacia":{
+        "name": "Croácia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/255px-Flag_of_Croatia.svg.png"
+      },
+      "Belgica":{
+        "name": "Bélgica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/196px-Flag_of_Belgium.svg.png"
+      },
+      "Canada":{
+        "name": "Canadá",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/305px-Flag_of_Canada_%28Pantone%29.svg.png"
+      }
+    },
+    "G": 
+    {
+      "Brasil":{
+        "name": "Brasil",
+        "flag": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg"
+      },
+      "Suica":{
+        "name": "Suíça",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/800px-Flag_of_Switzerland_%28Pantone%29.svg.png"
+      },
+      "Camaroes":{
+        "name": "Camarões",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/255px-Flag_of_Cameroon.svg.png"
+      },
+      "Servia":{
+        "name": "Sérvia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/255px-Flag_of_Serbia.svg.png"
+      }
+    },
+    "H":
+    {
+      "Uruguai":{
+        "name": "Uruguai",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/255px-Flag_of_Uruguay.svg.png"
+      },
+      "Portugal":{
+        "name": "Portugal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/150px-Flag_of_Portugal.svg.png"
+      },
+      "Coreia":{
+        "name": "Coreia do Sul",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/300px-Flag_of_South_Korea.svg.png"
+      },
+      "Gana":{
+        "name": "Gana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/255px-Flag_of_Ghana.svg.png"
+      }
+    }
+  }
+}
