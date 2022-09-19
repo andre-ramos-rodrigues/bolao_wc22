@@ -1,8 +1,10 @@
 import React from 'react'
 import styled from "styled-components"
+import { screen, mobile, micro } from '../utils/responsive'
 
 const Container = styled.div`
 width: 500px;
+${mobile({ width: '300px' })};
 background-color: #fffbfc;
 padding: 5px;
 display: flex;
@@ -18,6 +20,7 @@ const Wrapper = styled.div`
 const MatchInfo = styled.div`
 color: gray;
 font-size: 14px;
+${mobile({ fontSize: '10px' })};
 font-weight: 500;
 margin-bottom: 10px;
 text-align: center;
@@ -25,8 +28,10 @@ text-align: center;
 const TeamsInfo = styled.div`
 display: flex;
 gap: 18px;
+${mobile({ gap: '10px' })};
 align-items: center;
 width: 450px;
+${mobile({ width: '240px' })};
 justify-content: space-between;
 `
 const Team = styled.div`
@@ -35,12 +40,15 @@ gap: 10px;
 justify-content: center;
 align-items: center;
 width: 200px;
+${mobile({ width: '100px' })};
 `
 const TeamName = styled.div`
+${mobile({ fontSize: '14px' })};
 `
 const TeamFlag = styled.img`
 width: 30px;
 height: 30px;
+${mobile({ width: '20px', height: '20px' })};
 border-radius: 50%;
 object-fit: cover;
 border: 2px solid #30332e;
@@ -48,6 +56,7 @@ border: 2px solid #30332e;
 const Score = styled.div`
 background-color: #62bbc1;
 width: 20px;
+${mobile({ width: '16px' })};
 text-align: center;
 height: 20px;
 `
@@ -55,9 +64,11 @@ const Bet = styled.button`
 position: absolute;
 right: 5px;
 top: 5px;
+${mobile({ fontSize: '10px' })};
 `
 const InputA = styled.input`
 width: 20px;
+${mobile({ width: '16px', height: '16px' })};
 text-align: center;
 outline: none;
 border: none;
@@ -66,6 +77,7 @@ height: 20px;
 `
 const InputB = styled.input`
 width: 20px;
+${mobile({ width: '16px', height: '16px' })};
 text-align: center;
 outline: none;
 border: none;

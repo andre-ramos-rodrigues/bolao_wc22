@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import SingleFixture from './SingleFixture'
+import { screen, mobile, micro } from '../utils/responsive'
 
 const Container = styled.div`
 display: flex;
@@ -17,6 +18,7 @@ align-items: center;
 const Name = styled.div`
 background-color: #ec058e;
 width: 70px;
+${mobile({ width: '50px', fontSize: "12px" })};
 text-align: center;
 border-radius: 20px;
 padding: 2px;

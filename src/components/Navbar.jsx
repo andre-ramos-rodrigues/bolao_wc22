@@ -1,5 +1,6 @@
 import React from 'react'
 import styled from "styled-components"
+import { screen, mobile, micro } from '../utils/responsive'
 
 const Container = styled.div`
 width: 100wh;
@@ -16,6 +17,7 @@ margin: 25px 500px;
 width: 100%;
 height: 100%;
 display: flex;
+gap: 30px;
 `
 const Left = styled.div`
 flex: 1;
@@ -24,6 +26,7 @@ const Logo = styled.img`
 width: 75px;
 height: 75px;
 border-radius: 50%;
+${mobile({ width: '40px', height: '40px'})};
 `
 const Right = styled.div`
 flex: 3;
@@ -39,6 +42,7 @@ align-items: center;
 const Item = styled.div`
 padding: 7px;
 cursor: pointer;
+${mobile({fontSize: "13px"})};
 
 &:hover{
   background-color: #30332e;

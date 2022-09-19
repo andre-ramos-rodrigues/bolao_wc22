@@ -3,6 +3,7 @@ import styled from 'styled-components'
 import Group from '../components/Group'
 import SingleFixture from '../components/SingleFixture'
 import data from "../data/groups.json"
+import { screen, mobile, micro } from '../utils/responsive'
 
 const Container = styled.div`
 display: flex;
